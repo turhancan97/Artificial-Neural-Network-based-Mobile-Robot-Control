@@ -11,7 +11,7 @@ As you can see on Simulink Model, Ligh Source Location has been adjusted to 25, 
 ## How to Run the Project
 1. Clone this repo:
 
-`git clone https://github.com/turhancan97/Artificial-Neural-Network-basead-Mobile-Robot-Control.git`
+`git clone https://github.com/turhancan97/Artificial-Neural-Network-based-Mobile-Robot-Control.git`
 
 2. Open Matlab and run init.m first.
 3. Later, run train_net.m to train our model.
